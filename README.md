@@ -1,4 +1,4 @@
-* #MyGuestBook
+* # MyGuestBook
 
 1.简单的留言板程序，具有注册，登录，发表，回复等功能。
 
